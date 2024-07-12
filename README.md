@@ -3,11 +3,11 @@ A simple currency converter web application that allows users to convert between
 
 
 ## Features
-Input Amount: Users can enter the amount they want to convert.
-Currency Selection: Users can select the currency they want to convert from and to using dropdown menus.
-Real-time Conversion: Conversion rates are fetched using predefined exchange rates.
-Flag Display: Displays flags of selected countries for visual reference.
-Conversion Result: Shows the converted amount in a sentence format below the conversion form.
+<p>1. Input Amount: Users can enter the amount they want to convert.</p>
+<p>2. Currency Selection: Users can select the currency they want to convert from and to using dropdown menus.</p>
+<p>3. Real-time Conversion: Conversion rates are fetched using predefined exchange rates.</p>
+<p>4. Flag Display: Displays flags of selected countries for visual reference.</p>
+<p>5. Conversion Result: Shows the converted amount in a sentence format below the conversion form.</p>
 
 ## Technologies Used
 HTML
