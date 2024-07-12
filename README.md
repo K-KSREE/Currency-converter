@@ -41,6 +41,6 @@ To run this project locally, follow these steps:
 
 ## Credits
 <ul>
-    <li>Flag icons from Flags API</li>
+    <li>Flag icons from <a href="https://flagsapi.com/">Flags API</a></li>
     <li>Currency exchange rates and conversion logic implemented using JavaScript</li>
 </ul>
