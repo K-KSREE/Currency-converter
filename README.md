@@ -26,7 +26,7 @@ A simple currency converter web application that allows users to convert between
 </ol>
 
 ## Example
-If you enter 1 in the "Enter amount" field, select USD as the currency to convert from, and INR as the currency to convert to, the conversion result might display:
+<p>If you enter 1 in the "Enter amount" field, select USD as the currency to convert from, and INR as the currency to convert to, the conversion result might display:</p>
 <b>1 USD = 80 INR</b>
 
 ## Setup Instructions
